@@ -8,9 +8,9 @@ Création des premières pages du projet gossip:
  - La page de bienvenue,
  - La page du potin.
 
-Instalation:
+Installation:
 
-	- download and unzip: gossip_project.zip
+	-> download and unzip: gossip_project.zip
   
 	-> rails db:migrate
 	-> rails db:seed
